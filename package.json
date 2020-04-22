@@ -2,7 +2,6 @@
   "name": "assignment",
   "version": "0.1.0",
   "private": true,
-  "proxy":"https://www.googleapis.com",
   "dependencies": {
     "@material-ui/core": "^4.9.8",
     "@material-ui/icons": "^4.9.1",
